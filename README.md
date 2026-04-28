@@ -1,21 +1,65 @@
-# Hi 👋, I'm Jeanpier Robles
-**Software Engineering Student at UNI | Data Science & Web Development Enthusiast**
+<div align="center">
+  
+# ¡Hola! Soy Jeanpier Robles 👋
+**Estudiante de Ingeniería de Software en la UNI | Quinto Superior | Tech Leader**
 
-### 🚀 About Me
-- [cite_start]🎓 Currently in my **4th cycle** at Universidad Nacional de Ingeniería (UNI)[cite: 5].
-- [cite_start]💡 Perteneciente al **quinto superior** de mi facultad[cite: 10].
-- [cite_start]🏛️ **Co-director de Relaciones Públicas** en Unicode[cite: 42].
-- [cite_start]👨‍💻 **Co-director de IT** en TinkuyLabs, liderando proyectos para hackathons[cite: 36].
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Data+Science+Enthusiast;Full+Stack+Developer;AI+Integator)](https://git.io/typing-svg)
 
-### 🛠️ Tech Stack
-- [cite_start]**Frontend:** Astro, Tailwind CSS, TypeScript.
-- [cite_start]**Backend & Data:** Python (Scikit-Learn, Pandas), FastAPI, PostgreSQL.
-- [cite_start]**Tools:** IA-Assisted Development, Figma, Supabase[cite: 19, 50, 51].
+</div>
 
-### 🌟 Featured Projects
-- [cite_start]**Unicode Landing Page:** Líder de equipo en el desarrollo de la plataforma oficial de la comunidad[cite: 14, 15].
-- [cite_start]**AutoML Advisor:** Consultor inteligente que combina Machine Learning clásico con GenAI (Llama 3)[cite: 20, 24].
-- [cite_start]**Trika Web:** Gestión de material académico con Astro y Supabase[cite: 28, 31, 32].
+### 🚀 Sobre mí
 
-### 🏆 Achievements
-- [cite_start]🥇 1er Puesto en la Tech Hackathon 2025 - FIIS UNI[cite: 52].
+- 🎓 Actualmente en el **4to ciclo** de Ingeniería de Software en la **Universidad Nacional de Ingeniería (UNI)**.
+- 🏆 Perteneciente al **Quinto Superior** de la Facultad de Ingeniería Industrial y de Sistemas (FIIS).
+- 🏛️ **Co-director de Relaciones Públicas** en [Unicode](https://github.com/ccUnicode) y **Co-director de IT** en TinkuyLabs.
+- 🛠️ **Lead de Operaciones** para el **TechDay 2026**.
+- 🥇 Ganador del **1er Puesto** en la Tech Hackathon 2025 - FIIS UNI.
+- 🌎 En constante aprendizaje de inglés (enfocado en nivel B1).
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![Astro](https://img.shields.io/badge/Astro-BC3911?style=flat&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) |
+| **Backend & Datos** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **IA & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Llama3](https://img.shields.io/badge/Llama_3-Meta-blue?style=flat) |
+| **Diseño & DevOps** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+### 🌟 Proyectos Destacados
+
+- **[Unicode Landing Page](https://github.com/ccUnicode/Unicode):** Lideré el desarrollo de la plataforma institucional utilizando **Astro** y **TypeScript**, optimizando la visibilidad de la comunidad y la gestión de eventos.
+- **AutoML Advisor:** Consultor inteligente de Ciencia de Datos que integra modelos predictivos con **IA Generativa (Llama 3)** para facilitar la toma de decisiones.
+- **Trika Web:** Plataforma de gestión de recursos académicos diseñada para centralizar el material educativo de la facultad.
+- **Fynze:** Startup Fintech en desarrollo enfocada en la gestión de finanzas personales mediante IA.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuarioDeGitHub&theme=flat&no-frame=true&margin-w=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioDeGitHub&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuPerfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanpierrf31@gmail.com)
+
+</div>
