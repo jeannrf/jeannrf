@@ -36,22 +36,8 @@
 ### 🌟 Proyectos Destacados
 
 - **[Unicode Landing Page](https://github.com/ccUnicode/Unicode):** Lideré el desarrollo de la plataforma institucional utilizando **Astro** y **TypeScript**, optimizando la visibilidad de la comunidad y la gestión de eventos.
-- **AutoML Advisor:** Consultor inteligente de Ciencia de Datos que integra modelos predictivos con **IA Generativa (Llama 3)** para facilitar la toma de decisiones.
-- **Trika Web:** Plataforma de gestión de recursos académicos diseñada para centralizar el material educativo de la facultad.
-- **Fynze:** Startup Fintech en desarrollo enfocada en la gestión de finanzas personales mediante IA.
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuarioDeGitHub&theme=flat&no-frame=true&margin-w=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioDeGitHub&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+- **[AutoML Advisor](https://github.com/jeannrf/proyect-1-ds)** Consultor inteligente de Ciencia de Datos que integra modelos predictivos con **IA Generativa (Llama 3)** para facilitar la toma de decisiones.
+- **[TrikaWeb](https://github.com/ccUnicode/TrikaWeb):** Plataforma de gestión de recursos académicos diseñada para centralizar el material educativo de la facultad.
 
 ---
 
@@ -59,7 +45,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuPerfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanpier-robles)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanpierrf31@gmail.com)
 
 </div>
